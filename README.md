@@ -331,10 +331,22 @@ df
 The `find` command is used to search for files in a directory hierarchy.
 
 **Syntax:**
-```bash
+```bash 
 find <directory> -name <file_name>
 ```
 
-**Output:**
+## Output:
+
+Register number : 212223060147
+
+<img width="1453" height="951" alt="image" src="https://github.com/user-attachments/assets/6d790e4b-7ca2-4fec-b4d0-0353938c3d72" />
+
+<img width="984" height="854" alt="image" src="https://github.com/user-attachments/assets/a2dd2f6d-0aa0-45bd-a42b-96467cc24fea" />
+
+<img width="1600" height="786" alt="image" src="https://github.com/user-attachments/assets/11fa6ec7-0188-4119-9fe2-9970f12d860e" />
+
+<img width="1600" height="786" alt="image" src="https://github.com/user-attachments/assets/ec4856a6-11c2-4926-a6f7-037cf370bbf8" />
 
 ## Result
+
+Thus, the execution of various Linux commands is executed successfully using VMware workstation.
